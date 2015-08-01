@@ -1,0 +1,9 @@
+{
+  "name": "lx-google-fonts",
+  "version": "1.0.0",
+  "main": "fonts.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
